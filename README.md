@@ -4,7 +4,7 @@
 These example problems are similar to what we run into where we get car data from a wide variety of sources, and need to normalize the data. Many times users will have typos or use shorthand in a given field.
 
 ### Instructions:
-Please complete the normalizeData function below to make the examples pass. Feel free to add classes or helper methods as needed. Include the version of ruby you ran your code in as a comment at the top of the file.
+Please complete the normalizeData function below to make the examples pass. Feel free to add classes or helper methods as needed. 
 
 ### Things to consider:
 - "trim" refers to different features or packages for the same model of vehicle

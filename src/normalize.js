@@ -1,4 +1,4 @@
-export default function normalizeData() {
+export default function normalizeData(data) {
   //...add code here
-  retur {}
+  return {}
 }
