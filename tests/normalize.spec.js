@@ -16,6 +16,8 @@ describe("normalizeData",()=>{
   it("should correctly normalize data",()=>{
     examples.forEach((exampleSet)=>{
       const result = normalizeData(exampleSet[0])
+      console.log(result);
+      console.log(exampleSet[1]);
       expect(result).toEqual(exampleSet[1])
     })
   })
